@@ -10,3 +10,4 @@ for characters in string:
     else:
         lowercase_format += characters
 # Print result
+print(lowercase_format)
