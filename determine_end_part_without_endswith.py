@@ -5,3 +5,7 @@ suffix = input("Enter the suffix: ")
 length = len(suffix)
 end_part = string[-length]
 # Print True or False if the end part and suffix are the same or not
+if end_part == suffix:
+    print("True")
+else:
+    print("False")
