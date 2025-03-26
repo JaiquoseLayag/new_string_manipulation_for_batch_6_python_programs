@@ -5,7 +5,7 @@ for word in range(len(string)):
     if string[word] != " ":
 # Print the string once the first non-space character is found
 # Break the loop
-    result = string[word:]
-    break
+        result = string[word:]
+        break
 
 print(result)
