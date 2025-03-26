@@ -11,3 +11,4 @@ if string.startswith(prefix):
 else:
     new_string = string
 # Print the string without the prefix
+print(new_string)
