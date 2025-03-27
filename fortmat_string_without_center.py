@@ -12,3 +12,4 @@ if length < desired_length:
 else:
     new_string = string
 # Print result
+print(new_string)
