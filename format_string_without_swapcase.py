@@ -12,3 +12,4 @@ for character in string:
     else:
         new_format += character
 # Print result
+print(new_format)
