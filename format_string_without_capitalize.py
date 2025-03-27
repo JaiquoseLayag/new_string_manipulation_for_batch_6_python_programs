@@ -6,3 +6,4 @@ remaining = string[1:].lower()
 
 new_string = first_letter + remaining
 # Print result
+print(new_string)
