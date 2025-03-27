@@ -12,3 +12,6 @@ for word in split:
     words.append(new_words)
 # Use join() to add all new words together
 # Print result
+new_string = " ".join(words)
+
+print(new_string)
