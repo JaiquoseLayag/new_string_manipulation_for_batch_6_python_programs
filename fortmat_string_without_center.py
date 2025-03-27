@@ -8,4 +8,7 @@ if length < desired_length:
     left_space = total_spaces // 2
     right_space = total_spaces - left_space
 # Manually add spaces to the left and right of the string
+    new_string = " " * left_space + right_space * " "
+else:
+    new_string = string
 # Print result
