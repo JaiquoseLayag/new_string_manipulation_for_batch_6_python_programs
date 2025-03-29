@@ -8,3 +8,4 @@ if string.endswith(suffix):
     
     new_string = string[:len(string) - length] 
 # Print result
+print(new_string)
