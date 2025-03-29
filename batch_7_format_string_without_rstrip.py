@@ -6,3 +6,4 @@ while index >= 0 and string[index] == " ":
     index -= 1
 trimmed_text = string[:index + 1]
 # Print from the start of the index up to the end of a non-space character
+print(trimmed_text)
