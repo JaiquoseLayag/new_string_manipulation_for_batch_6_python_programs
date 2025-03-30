@@ -7,3 +7,6 @@ length = len(first_part)
 
 if string[:length] == first_part:
 # Print result
+    print("True")
+else:
+    print("False")
