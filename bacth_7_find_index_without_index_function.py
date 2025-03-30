@@ -9,3 +9,5 @@ for i in range(len(text)):
         found = True
         break
 # Print result
+if not found:
+    print("Substring not found")
