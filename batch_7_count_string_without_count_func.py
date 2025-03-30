@@ -17,3 +17,4 @@ for i in range(main_length - sub_length + 1):
         count += 1  
         
 # Print result
+print(count)
