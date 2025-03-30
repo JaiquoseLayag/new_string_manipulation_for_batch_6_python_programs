@@ -9,5 +9,5 @@ if length < desired_length:
     formatted_number = zeroes + str(number)
 else:
     formatted_number = str(number)  
-
 # Print result
+print(formatted_number)
