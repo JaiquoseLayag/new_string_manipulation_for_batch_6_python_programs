@@ -12,3 +12,7 @@ for i in range(text_length - sub_length, -1, -1):
         found_index = i
         break
 # Print result
+if found_index != -1:
+    print("Last occurrence found at index:", found_index)
+else:
+    print("Substring not found")
